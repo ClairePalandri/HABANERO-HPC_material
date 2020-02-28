@@ -21,11 +21,12 @@ You have a heavy computing 'job' (e.g. running an R script that wrangles large 
 
 **How to use Habanero?** This repository contains 4 resources to get started:
 
-* An **overview of the main steps** to interact with Habanero: [main steps to interact with Habanero.rtf](https://github.com/ClairePalandri/HABANERO-HPC_material/blob/master/main steps to interact with Habanero.pdf)
+* An **overview of the main steps** to interact with Habanero: [How_to_use_Habanero.pdf](https://github.com/ClairePalandri/HABANERO-HPC_material/blob/master/How_to_use_Habanero.pdf)
 * A **stand-alone tutorial showing how to run a simple .R script from A to Z** on the cluster: folder [Tutorial_28Feb2020](https://github.com/ClairePalandri/HABANERO-HPC_material/blob/master/Tutorial_28Feb2020)
 * **Cheatsheets**
   * a [cheatsheet with SBATCH commands](https://github.com/ClairePalandri/HABANERO-HPC_material/blob/master/cheatsheet_SBATCH-commands.pdf)
   * a [cheatsheet with ssh commands](https://github.com/ClairePalandri/HABANERO-HPC_material/blob/master/cheatsheet_SSH-commands.pdf)
-* More online information & support is provided by Columbia:
+
+More online information & support is provided by Columbia:
   * https://cuit.columbia.edu/shared-research-computing-facility
   * https://confluence.columbia.edu/confluence/display/rcs/Habanero+-+Getting+Started
